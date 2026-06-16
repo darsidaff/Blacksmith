@@ -38,7 +38,7 @@ UI System
 
 ## Видео игрового процесса
 
-[Ссылка на видео]()
+[Ссылка на видео](https://drive.google.com/file/d/1DGK8sU85CYoh58r4dM5So25an5ejjb0y/view?usp=sharing)
 
 ## Билд
 
@@ -46,4 +46,5 @@ UI System
 
 ## Скриншоты
 
-<img src="Screenshots/Рисунок2.png" width="400">
+<img src="Screenshots/Рисунок1.jpg" width="400"> <img src="Screenshots/Рисунок2.jpg" width="400">
+<img src="Screenshots/Рисунок3.jpg" width="400">
